@@ -1,0 +1,4 @@
+# A list of file maps
+CATSSoftware/catsapps/cats.war=/data/tomcat/webapps
+CATSSoftware/catsapps/catsmedia/data/tomcat/webapps
+CATSSoftware/catshome=/data/cats/

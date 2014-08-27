@@ -1,0 +1,12 @@
+# a list of options and their values
+-s dir
+-t rpm
+-C /root/fpm-cats
+--verbose
+--name CATS
+--description 'CATS Asset Tracking solution for fulcrumhosted.com datacenter'
+--vendor Fulcrum Technologies Inc.
+--maintainer bwellington@fulcrum.net
+--inputs ./fpm/filemap
+--rpm-os 'linux'
+--rpm-auto-add-directories
